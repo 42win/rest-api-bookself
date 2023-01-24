@@ -201,17 +201,22 @@ body - raw(json)
 ```
 
 - contoh update data
+
 ![image](https://user-images.githubusercontent.com/55066281/214306339-fbc0ac60-2991-454a-a921-9bf47406664e.png)
 
 - contoh get all data
+
 ![image](https://user-images.githubusercontent.com/55066281/214306593-4d43e8d0-5e4d-470c-bd10-ea3288ca9d6d.png)
 
 - contoh get data by id
+
 ![image](https://user-images.githubusercontent.com/55066281/214306731-752844d3-d3e9-47e7-8543-f3c06f9193ac.png)
 
 - contoh create new data 
+
 ![image](https://user-images.githubusercontent.com/55066281/214306908-383e7ca2-8519-4415-9a39-535e8c2bd899.png)
 
 - contoh delete data by id
+
 ![image](https://user-images.githubusercontent.com/55066281/214307032-5dd4aeb6-92b9-4c92-81a7-a5368d116c59.png)
 
